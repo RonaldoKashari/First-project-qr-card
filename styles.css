@@ -7,7 +7,7 @@ body{
     overflow: hidden;
 }
 
-.center{
+#center{
     display: flex;
     justify-content: center;
     align-items: center;
