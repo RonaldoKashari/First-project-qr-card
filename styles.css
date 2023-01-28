@@ -2,6 +2,7 @@
 *{
   font-family: 'Josefin Sans', sans-serif;
 }
+
 body{
     background-color: hsl(212, 45%, 89%);
     overflow: hidden;
@@ -38,6 +39,3 @@ p{
     color: darkgrey;
     font-size: 1.2rem;
 }
-
-/* .attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); } */
