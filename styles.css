@@ -32,13 +32,13 @@ main{
 }
 
 h1{
-    font-size: 30px;
+    font-size: 1.8rem;
     font-weight: 700;
 }
 
-h2{
+p{
     color: darkgrey;
-    font-size: 18px;
+    font-size: 1.2rem;
 }
 
 /* .attribution { font-size: 11px; text-align: center; }
