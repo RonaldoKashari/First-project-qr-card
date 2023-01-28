@@ -7,7 +7,7 @@ body{
     overflow: hidden;
 }
 
-#center{
+main{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -31,12 +31,12 @@ body{
     width: 320px;
 }
 
-.paragraph1{
+h1{
     font-size: 30px;
     font-weight: 700;
 }
 
-.paragraph2{
+h2{
     color: darkgrey;
     font-size: 18px;
 }
