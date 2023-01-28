@@ -2,12 +2,10 @@
 *{
   font-family: 'Josefin Sans', sans-serif;
 }
-
 body{
     background-color: hsl(212, 45%, 89%);
     overflow: hidden;
 }
-
 main{
     display: flex;
     justify-content: center;
@@ -15,7 +13,6 @@ main{
     text-align: center;
     min-height: 100vh;
 }
-
 #card{
     padding: 20px 10px;
     background-color: white;
@@ -23,18 +20,15 @@ main{
     border-radius: 15px;
     box-shadow: 2px 13px 19px 5px rgba(0,0,0,0.1);
 }
-
 #qr{
     display: block;
     margin: auto;
     border-radius: 15px;
     width: 320px;
 }
-
 h1{
     font-size: 1.8rem;
 }
-
 p{
     color: darkgrey;
     font-size: 1.2rem;
